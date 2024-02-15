@@ -1,0 +1,401 @@
+ <!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content=
+        "width=device-width, initial-scale=1.0" />
+
+    <style>
+        .geeks {
+            width: 220px;
+            height: 250px;
+            overflow: hidden;
+            margin: 0 auto;
+        }
+     
+        .geeks img {
+            width: 100%;
+            transition: 0.4s all ease-in-out;
+        }
+     
+        .geeks:hover img {
+            transform: scale(2.5);
+        }
+     </style>
+
+  <title>
+    Motley Crue
+  </title>
+
+    <style>
+   body {background-color: white;}
+    </style> 
+
+</head>
+
+
+
+ <h1>
+     Motley Crue
+</h1>
+
+     <p>
+        The world's most notorious rock band, also known as <span style="color:red"><b>Motley Crue</b></span> is an American heavy metal band formed in Hollywood, California in 1981.
+        The group was founded by bassist <b>Nikki Sixx</b>, drummer <b>Tommy Lee</b> and guitarist/lead vocalist Greg Leon.
+        After some time, Leon was replaced by guitarist <b>Mick Mars</b> and lead vocalist <b>Vince Neil</b> respectively.
+        Motley Crce has sold over 100 million albums worldwide.
+        They have also achieved seven platinum or multi-platinum certifications, nine Top 10 albums on the Billboard 200 chart, twenty-two Top 40 mainstream rock hits, and six Top 20 pop singles.
+        The band experienced several short-term lineup changes in the 1990s and 2000s; these included the introduction of vocalist John Corabi (who was Neil's replacement and drummers Randy Castillo and Samantha Maloney, both of whom filled in for Lee following his departure from Motley Crue in 1999; he returned to the band in 2004. 
+        More recently in 2022 guitarist Mick Mars announced his retirement from touring with the band, with former Marilyn Manson and Rob Zombie guitarist John 5 taking his place on live duties. 
+    </p>
+    
+    <a href="https://www.billboard.com/music/rock/motley-crue-girls-girls-girls-album-anniversary-nikki-sixx-7890233/"> 
+    <img src="https://www.billboard.com/wp-content/uploads/media/Motley-Crue-1986-billboard-1548.jpg" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 1548px; height: 259px; margin: 0.5px 0px; width: 392px;" alt="Nikki Sixx Isn't So Sure Whitney Houston Fairly Beat MÃ¶tley CrÃ¼e for a  No. 1 Album In 1987 – Billboard" jsname="kn3ccd" aria-hidden="false">
+    </a>
+
+<hr>
+
+<h1>
+ Awards and nominations
+</h1>
+<p>
+  Motley Crue are an American Music Award-winning Heavy Metal/Hard Rock band, and have been nominated for a <b>MTV Video Music Award</b> and three <b>Grammy Award</b>.
+     They were inducted into the <b>Hollywood Walk of Fame</b> in 2006. 
+     </p>
+
+  <h3 id="podnaslov">
+    list of awards and nominations received by Motley Crue:
+  </h3>
+
+<ul>
+    <li>Favorite Heavy Metal/Hard Rock Album</li>
+     <li>Hollywood Walk of Fame</li>
+      <li>Favorite Heavy Metal/Hard Rock Artist</li>
+     <li>Best Hard Rock Performance</li>
+    <li>Best Heavy Metal Video</li>
+</ul> 
+
+<style>
+
+  th, td {
+  border-style: solid;
+}
+</style>
+</head>
+<body>
+
+ <h1>
+   Members
+ </h1>
+ 
+<table style="width:80%">
+
+  <tr>
+    <td>
+      Nikki Sixx
+    </td>
+    <td> 
+      Mick Mars
+    </td>
+    <td>
+      Tommy Lee
+    </td>
+    <td>
+      Vinc Neil
+    </td>
+  </tr>
+
+  <tr>
+
+    <td><a href="https://www.pinterest.com/pin/678706606358195381/"><div class="geeks">
+       <img alt="" src="https://i.pinimg.com/564x/d1/0a/7b/d10a7bbe4325947d209d125b1bafcbd8.jpg" width="220" height="260">
+    </td></div>
+    <td><a href="https://www.pinterest.com/pin/731060952025333007/"><div class="geeks">
+       <img alt="" src="https://i.pinimg.com/564x/7a/2a/05/7a2a059ed5cac21a33bf00fe2bdecc16.jpg" width="220" height="260">
+    </td></div>
+    <td><a href="https://www.pinterest.com/pin/89016530125346255/"><div class="geeks">
+       <img alt="" src="https://i.pinimg.com/564x/fb/bc/de/fbbcdec167f177420edf7354552b5fe1.jpg" width="220" height="260">
+    </td></div>
+    <td><a href="https://www.pinterest.com/pin/1061653312133991219/"><div class="geeks">
+       <img alt="" src="https://i.pinimg.com/474x/8b/b9/fb/8bb9fb1f0404c9737a4d02dd4acc25a8.jpg" width="220" height="260">
+    </td></div>
+
+  <tr>
+    <td>
+      bass guitar, backing vocals, keyboards
+      </td>
+
+      <td>
+      lead and rhythm guitar, backing vocals
+      </td>
+
+      <td>
+      drums, backing vocals, piano
+      </td>
+
+      <td>
+      lead vocals, rhythm guitar
+      </td>
+   </tr>
+
+</table>
+
+<hr>
+
+ <h1>
+    History
+ </h1>
+
+  <h3 id="podnaslov">
+     1981-1983: Early history and Too Fast for Love
+  </h3>
+     <p>
+        <span style="color:">Motley Crue</span> was formed on January 17, 1981, when bassist Nikki Sixx left the band London and began rehearsing with drummer Tommy Lee and guitarist/vocalist Greg Leon.
+        Lee had previously worked with Leon in a band called Suite 19 and the trio practiced together for some time; Leon eventually decided not to continue with them. 
+        Sixx and Lee then began a search for new members and soon met guitarists Robin Moore and Bob Deal, better known as Mick Mars, after answering an advertisement that he placed in The Recycler that read: "Loud, rude and aggressive guitar player available". 
+        Mars auditioned for Sixx, Moore and Lee, and was subsequently hired while Moore was fired at the same session according to the band's biography<b><span style="color:red"> The Dirt</b></span>.
+    </p>
+
+  <h3 id="podnaslov">
+    1983-1991: International fame and addiction struggles
+  </h3>
+     <p>
+        "Too Fast For Love", the title track from the band's debut album, was reportedly recorded over a span of three days while the band members were under the influence of alcohol.
+        Their antics included, according to the website "Page Six" urinating in public or on the floors of their bedrooms, and throwing beds and furniture such as futons out of hotel windows in Hamburg, Germany. 
+        Nikki Sixx had been arrested for the first time while selling "chocolate" mescaline at a Rolling Stones concert in 1973. 
+        The band became rapidly successful in the United States after playing at the US Festival in May 29, 1983, and also with the aid of the new medium of MTV. 
+        Their second album, Shout at the Devil, was released in September 26, 1983. The album represented the band's mainstream breakthrough and would eventually be certified 4x platinum.
+    </p>
+
+<hr>
+
+</style>
+</head>
+
+
+<style>
+  th, td {
+  border-style: solid;
+
+}
+</style>
+</head>
+<body>
+
+<h1>
+    Motley Crue Albums And Discography
+</h1>
+
+ <h3 id="podnaslov"> 
+     Presenting the moast popular albums by Motley Crue:
+ </h3>
+  
+  <table style="width:70%">
+  <tr>
+    <td><a href="https://en.wikipedia.org/wiki/Too_Fast_for_Love">
+     Too Fast for Love
+      </a></td>
+       <td><a href="https://en.wikipedia.org/wiki/Shout_at_the_Devil">
+        Shout at the Devil
+        </a></td>
+        <td><a href="https://en.wikipedia.org/wiki/Theatre_of_Pain">
+        Theatre of Pain
+        </a></td>
+      <td><a href="https://en.wikipedia.org/wiki/Dr._Feelgood_(album)">
+     Dr. Feelgood
+    </a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://en.wikipedia.org/wiki/Too_Fast_for_Love">
+       <img alt="Too Fast.jpg" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c1/Too_Fast.jpg/220px-Too_Fast.jpg" decoding="async" srcset="//upload.wikimedia.org/wikipedia/en/c/c1/Too_Fast.jpg 1.5x" data-file-width="300" data-file-height="300" width="220" height="220">
+     <td><a href="https://en.wikipedia.org/wiki/Shout_at_the_Devil">
+       <img alt="ShoutattheDevil.jpg" src="//upload.wikimedia.org/wikipedia/en/thumb/3/39/ShoutattheDevil.jpg/220px-ShoutattheDevil.jpg" decoding="async" srcset="//upload.wikimedia.org/wikipedia/en/3/39/ShoutattheDevil.jpg 1.5x" data-file-width="315" data-file-height="315" width="220" height="220">
+    <td><a href="https://en.wikipedia.org/wiki/Theatre_of_Pain">
+       <img alt="Theatre of Pain.jpg" src="//upload.wikimedia.org/wikipedia/en/f/f1/Theatre_of_Pain.jpg" decoding="async" data-file-width="220" data-file-height="224" width="220" height="224">
+    <td><a href="https://en.wikipedia.org/wiki/Dr._Feelgood_(album)">
+       <img alt="Motley Crue - Dr Feelgood-front.jpg" src="//upload.wikimedia.org/wikipedia/en/thumb/3/38/Motley_Crue_-_Dr_Feelgood-front.jpg/220px-Motley_Crue_-_Dr_Feelgood-front.jpg" decoding="async" srcset="//upload.wikimedia.org/wikipedia/en/3/38/Motley_Crue_-_Dr_Feelgood-front.jpg 1.5x" data-file-width="300" data-file-height="300" width="220" height="220">
+  </tr>
+
+  <tr>
+    <td>
+      Too Fast for Love is the debut studio album by American heavy metal band Motley Crue.
+      </td>
+    <td>
+      Shout at the Devil is the second studio album by American heavy metal band Motley Crue
+      </td>
+    <td>
+      Theatre of Pain is the third studio album by American heavy metal band Motley Crue
+      </td>
+    <td>
+      Dr. Feelgood is the fifth studio album by American heavy metal band Motley Crue
+      </td>
+  </tr>
+
+  <tr>
+    <td>November 10, 1981</td>
+    <td>September 23, 1983</td>
+    <td>June 24, 1985</td>
+    <td>August 28, 1989</td>
+  </tr>
+ 
+</table>
+
+<hr>
+
+<h1>
+  Lyrical themes:
+</h1>
+
+<ol>
+   <li><span style="color:red"><b>
+     Heavy metal
+     </span></b>-or simply metal is a genre of rock music</li>
+    <li><span style="color:red"><b>
+      Glam metal
+      </span></b>-also known as hair metal or pop metal is a subgenre of heavy metal</li>
+    <li><span style="color:red"><b>
+      Hard rock
+      </span></b>-a loosely defined subgenre of rock music typified by aggressive vocals and distorted electric guitars</li>
+    <li><span style="color:red"><b>
+      Power pop
+      </span></b>-a form of pop rock based on the early music</li>
+</ol>  
+
+<hr>
+
+<h1>
+  The Dirt
+</h1>
+
+<p>
+ </a><b> <span style="color:red">The Dirt</span></b> is a 2019 American biographical comedy-drama film directed by Jeff Tremaine from a screenplay by Rich Wilkes and Amanda Adelson, about heavy metal/glam metal band Motley Crue. The film stars Douglas Booth, Colson Baker, Daniel Webber and Iwan Rheon. <div>
+  <b>The Dirt:</b> Confessions of the World's Most Notorious Rock Band by the band and Neil Strauss; however, the project then languished in development hell for over a decade, going through numerous directors and cast members before Netflix purchased the rights in March 2017. Filming began around New Orleans in February 2018. 
+</p>
+
+<a href="https://mixdownmag.com.au/news/music/watch-the-first-trailer-for-motley-crue-biopic-the-dirt/">
+<img src="https://mixdownmag.com.au/wp-content/uploads/2020/09/motley-crue-the-dirt-fb-1.jpg" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" 
+style="max-width: 800px; height: 260px; margin: 0px; width: 462px;" alt="Watch the first trailer for Mötley Crüe biopic 'The Dirt'" jsname="kn3ccd">
+</a>
+     <h3 id="podnaslov">
+       Plot 
+       </h3>
+        
+        <p>
+          Based on Motley Crue's 2001 best-selling autobiography, <b>THE DIRT</b> is an unflinching story about sex, drugs, rock 'n roll, fame, and the high price of excess. Director Jeff Tremaine shows us just how Nikki Sixx (Douglas Booth), Mick Mars (Iwan Rheon), Tommy Lee (Colson Baker), and Vince Neil (Daniel Webber) took Motley Crue from the Sunset Strip to the world stage, and what it meant to become the world's most notorious rock band.<div>
+            The group struggles to make a living while hoping for a record deal when they are discovered one night while playing a gig at the Whisky A Go-Go in Hollywood. From that point, the boys make a record, go on tour and rise to the top of the charts in rock music. This newfound celebrity and wealth is seen as a ticket to excess as well as success and all the boys abuse heavy drugs and alcohol. They also have unlimited, indiscriminate sexual encounters with girls and become famous for their exploits before and after concerts as well as in hotel rooms and even in their own homes.<div>
+             <p> </p> In spite of the meteoric rise to fame, each of the boys longs for stable home lives but their lifestyles prevent any sort of long-lasting relationships or stability. Each of them suffers personal tragedies including death and estrangement in core relationships but they persevere and maintain through it all because of their love of the music.<div>
+                </p>
+
+<hr>
+
+  <h1>
+    World tour
+  </h1>
+
+<p>
+  <span style="color:red">The World Tour</span> is a co-headlining concert tour by English rock band <a href="https://en.wikipedia.org/wiki/Def_Leppard">Def Leppard</a> and American rock band Motley Crue, taking place from February through August 2023 in venues across Latin America and Europe.
+  Tour dates were announced on October 20, 2022; this tour was advertised as The World Tour and confirmed to be a co-headlining tour of Def Leppard and Motley Crue. 
+  In addition to playing stadiums and entertainment venues, this tour will also feature appearances at international music festivals. 
+  This was Motley Crue's first tour without co-founder and original guitarist Mick Mars, who announced his retirement in October 2022. His place was filled by <a href="https://en.wikipedia.org/wiki/John_5_(guitarist)"">John 5</a>. 
+</p>
+
+<h3>
+  Special guests:
+</h3>
+
+<ul>
+    <li><a href="https://en.wikipedia.org/wiki/Europe_(band)">Europe</a></li>
+     <li><a href="https://en.wikipedia.org/wiki/Alice_Cooper">Alice Cooper</a></li>
+     
+</ul> 
+
+   <h3>
+    Countdown till the world tour:
+   </h3>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+p {
+  text-align: demo;
+  font-size: 15px;
+  margin-top: 0px;
+}
+</style>
+</head>
+<body>
+
+<p id="demo"></p>
+<script>
+
+var countDownDate = new Date("Nov 14, 2023 00:00:00").getTime();
+
+var x = setInterval(function() {
+
+  var now = new Date().getTime();
+    
+  var distance = countDownDate - now;
+    
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+    
+  document.getElementById("demo").innerHTML = days + "d " + hours + "h "
+  + minutes + "m " + seconds + "s ";
+    
+  if (distance < 0) {
+    clearInterval(x);
+    document.getElementById("demo").innerHTML = "EXPIRED";
+  }
+}, 1000);
+</script>
+
+</body>
+</html>
+</head>
+
+<p><b>
+  Theres not much time left so hurry up and get your tickets!
+</p></b>
+
+<style>
+#div1 {
+  font-size:48px;
+}
+</style>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<body>
+
+<div id="div1" class="fa"></div>
+
+<script>
+function hourglass() {
+  var a;
+  a = document.getElementById("div1");
+  a.innerHTML = "&#xf251;";
+  setTimeout(function () {
+      a.innerHTML = "&#xf252;";
+    }, 1000);
+  setTimeout(function () {
+      a.innerHTML = "&#xf253;";
+    }, 2000);
+}
+hourglass();
+setInterval(hourglass, 3000);
+</script>
+</body>
+
+<hr>
+
+<address>
+  Ema Skruba
+  17. 6. 2023
+</adress>
+
+<hr> 
+
+ </body>
+
+</html>
+
