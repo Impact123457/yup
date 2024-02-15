@@ -33,8 +33,6 @@
 
 </head>
 
-
-
  <h1>
      Motley Crue
 </h1>
@@ -150,10 +148,10 @@
      1981-1983: Early history and Too Fast for Love
   </h3>
      <p>
-        <span style="color:">Motley Crue</span> was formed on January 17, 1981, when bassist Nikki Sixx left the band London and began rehearsing with drummer Tommy Lee and guitarist/vocalist Greg Leon.
-        Lee had previously worked with Leon in a band called Suite 19 and the trio practiced together for some time; Leon eventually decided not to continue with them. 
-        Sixx and Lee then began a search for new members and soon met guitarists Robin Moore and Bob Deal, better known as Mick Mars, after answering an advertisement that he placed in The Recycler that read: "Loud, rude and aggressive guitar player available". 
-        Mars auditioned for Sixx, Moore and Lee, and was subsequently hired while Moore was fired at the same session according to the band's biography<b><span style="color:red"> The Dirt</b></span>.
+      <span style="color:">Motley Crue</span> was formed on January 17, 1981, when bassist Nikki Sixx left the band London and began rehearsing with drummer Tommy Lee and         guitarist/vocalist Greg Leon.
+      Lee had previously worked with Leon in a band called Suite 19 and the trio practiced together for some time; Leon eventually decided not to continue with them. 
+      Sixx and Lee then began a search for new members and soon met guitarists Robin Moore and Bob Deal, better known as Mick Mars, after answering an advertisement that          he placed in The Recycler that read: "Loud, rude and aggressive guitar player available". 
+      Mars auditioned for Sixx, Moore and Lee, and was subsequently hired while Moore was fired at the same session according to the band's biography<b><span      style="color:red"> The Dirt</b></span>.
     </p>
 
   <h3 id="podnaslov">
